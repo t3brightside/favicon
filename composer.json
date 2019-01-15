@@ -1,0 +1,24 @@
+{
+  "name": "t3brightside/favicon",
+  "description": "Favicon extension for TYPO3 CMS.",
+  "type": "typo3-cms-extension",
+  "version": "0.0.1",
+  "keywords": ["TYPO3", "favicon"],
+  "homepage": "https://github.com/t3brightside/favicon/",
+  "license": "GPL-2.0+",
+  "authors": [
+      {
+          "name": "Tanel Põld",
+          "role": "Developer",
+          "email": "info@t3brightside.com",
+          "homepage": "https://t3brightside.com"
+      }
+  ],
+  "require": {
+    "typo3/cms-core": "^9.5"
+  },
+  "replace": {
+    "metaplus": "self.version",
+    "typo3-ter/metaplus": "self.version"
+  }
+}
