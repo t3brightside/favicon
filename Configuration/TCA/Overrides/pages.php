@@ -39,10 +39,10 @@ $tempColumns = array(
 
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTCAcolumns('pages', $tempColumns, 1);
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes(
-  'pages',
-  '--palette--;Favicon;favicon,',
-  '',
-  'after:lastUpdated'
+	'pages',
+	'--palette--;Favicon;favicon,',
+	'',
+	'after:lastUpdated'
 );
 $GLOBALS['TCA']['pages']['palettes']['favicon']['showitem'] = '
 	tx_favicon_favicon

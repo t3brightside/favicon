@@ -1,7 +1,7 @@
 # Favicon
 
 **TYPO3 CMS extension to manipulate:**
-- Site favicon through site configuration
+- Site favicon in page meta data
 
 ## System requirements
 - TYPO3 9.5 LTS
@@ -12,11 +12,11 @@
 
 ## Usage
 
-Edit site configuration, or root page settings in meta data
+Edit page settings, meta data. Favicon is applied to all sub pages.
 
 ## Sources
--  [GitHub](https://github.com/t3brightside/favicon)
--  [Packagist](https://packagist.org/packages/t3brightside/favicon)
+- [GitHub](https://github.com/t3brightside/favicon)
+- [Packagist](https://packagist.org/packages/t3brightside/favicon)
 - [TER](https://extensions.typo3.org/extension/favicon/)
 
 ## Development and maintenance
