@@ -18,7 +18,7 @@
     "typo3/cms-core": "^9.5"
   },
   "replace": {
-    "metaplus": "self.version",
-    "typo3-ter/metaplus": "self.version"
+    "favicon": "self.version",
+    "typo3-ter/favicon": "self.version"
   }
 }
