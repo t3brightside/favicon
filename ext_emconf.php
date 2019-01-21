@@ -1,7 +1,7 @@
 <?php
 	$EM_CONF[$_EXTKEY] = array (
 		'title' => 'Favicon',
-		'description' => 'Add favicon in page metadata tab',
+		'description' => 'Add favicon through page settings. Renders icons for different devices.',
 		'category' => 'fe',
 		'version' => '0.0.1',
 		'state' => 'stable',
