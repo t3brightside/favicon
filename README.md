@@ -10,9 +10,9 @@
 -  Install from TER: **favicon** or Composer: **t3brightside/favicon**
 -  Include static template
 
-## Usage
+## Editors
 
-Edit page settings, meta data. Favicon is applied to all sub pages.
+In page settings, meta tab add icon image and favicon is applied to the page and it's sub pages.
 
 ## Sources
 - [GitHub](https://github.com/t3brightside/favicon)
