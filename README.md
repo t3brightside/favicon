@@ -12,7 +12,7 @@
 
 ## Editors
 
-In page settings, meta tab add icon image and favicon is applied to the page and it's sub pages.
+In page settings, metadata tab add icon image. Favicon is applied to the page and it's sub pages.
 
 ## Sources
 - [GitHub](https://github.com/t3brightside/favicon)
