@@ -42,7 +42,7 @@ $tempColumns = array(
 	'pages',
 	'--palette--;Favicon;favicon,',
 	'',
-	'after:lastUpdated'
+	'after:description'
 );
 $GLOBALS['TCA']['pages']['palettes']['favicon']['showitem'] = '
 	tx_favicon_favicon
