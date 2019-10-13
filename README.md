@@ -1,8 +1,8 @@
 # Favicon
-# Microtemplate
 [![Packagist](https://img.shields.io/packagist/v/t3brightside/pagelist.svg?style=flat)](https://packagist.org/packages/t3brightside/favicon)
 [![Software License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](LICENSE)
 [![Brightside](https://img.shields.io/badge/by-t3brightside.com-orange.svg?style=flat)](https://t3brightside.com)
+
 **TYPO3 CMS extension to manipulate:**
 - Site favicon in page meta data
 
