@@ -2,7 +2,7 @@
   "name": "t3brightside/favicon",
   "description": "TYPO3 CMS extension to add favicon through page settings. Renders icons for different devices.",
   "type": "typo3-cms-extension",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": ["TYPO3", "favicon"],
   "homepage": "https://github.com/t3brightside/favicon/",
   "license": "GPL-2.0+",

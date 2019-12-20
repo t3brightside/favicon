@@ -3,7 +3,7 @@
 		'title' => 'Favicon',
 		'description' => 'Add favicon through page settings. Renders icons for different devices.',
 		'category' => 'fe',
-		'version' => '0.0.2',
+		'version' => '0.0.3',
 		'state' => 'stable',
 		'uploadfolder' => false,
 		'createDirs' => '',
