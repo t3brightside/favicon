@@ -24,18 +24,6 @@ page.headerData.880909099 {
         	wrap = <link rel="icon" href="|" sizes="32x32">
         	required = 1
         }
-    	20 < .10
-    	20.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 57
-    	20.wrap = <link rel="icon" type="image/png" href="|" sizes="57x57">
-    	30 < .10
-    	30.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 76
-    	30.wrap = <link rel="icon" type="image/png" href="|" sizes="76x76">
-    	40 < .10
-    	40.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 96
-    	40.wrap = <link rel="icon" type="image/png" href="|" sizes="96x96">
-    	50 < .10
-    	50.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 128
-    	50.wrap = <link rel="icon" type="image/png" href="|" sizes="128x128">
     	60 < .10
     	60.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 228
     	60.wrap = <link rel="icon" type="image/png" href="|" sizes="228x228">
@@ -44,21 +32,10 @@ page.headerData.880909099 {
     	70.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 196
     	70.wrap = <link rel="shortcut icon" sizes="196x196" href="|">
     # iOS
-    	80 < .10
-    	80.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 196
-    	80.wrap = <link rel="apple-touch-icon" sizes="196x196" href="|">
-    	90 < .10
-    	90.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 152
-    	90.wrap = <link rel="apple-touch-icon" sizes="152x152" href="|">
     	100 < .10
     	100.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 180
     	100.wrap = <link rel="apple-touch-icon" sizes="180x180" href="|">
-    	110 < .10
-    	110.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 70
-    	110.wrap = <meta name="msapplication-square70x70logo" content="|" />
-    	120 < .10
-    	120.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 150
-    	120.wrap = <meta name="msapplication-square150x150logo" content="|" />
+    # MS
     	130 < .10
     	130.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 310
     	130.wrap = <meta name="msapplication-square310x310logo" content="|" />
