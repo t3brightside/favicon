@@ -24,6 +24,9 @@ page.headerData.880909099 {
         	wrap = <link rel="icon" href="|" sizes="32x32">
         	required = 1
         }
+        50 < .10
+    	50.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 16
+    	50.wrap = <link rel="icon" type="image/png" href="|" sizes="16x16">
     	60 < .10
     	60.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 228
     	60.wrap = <link rel="icon" type="image/png" href="|" sizes="228x228">
