@@ -3,7 +3,7 @@
 		'title' => 'Favicon',
 		'description' => 'Add favicon through page settings. Renders icons for different devices.',
 		'category' => 'fe',
-		'version' => '0.0.3',
+		'version' => '0.1.0',
 		'state' => 'stable',
 		'uploadfolder' => false,
 		'createDirs' => '',
@@ -15,7 +15,7 @@
 			array (
 				'depends' =>
 				array (
-					'typo3' => '9.5.0 - 9.5.99',
+					'typo3' => '9.5.0 - 10.4.99',
 				),
 				'conflicts' =>
 				array (

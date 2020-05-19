@@ -7,7 +7,7 @@
 - Site favicon in page meta data
 
 ## System requirements
-- TYPO3 9.5 LTS
+- TYPO3 9.5 LTS & 10.4 LTS
 
 ## Installation
 -  Install from TER: **favicon** or Composer: **t3brightside/favicon**
