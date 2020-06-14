@@ -1,10 +1,10 @@
 <?php
 if (!defined('TYPO3_MODE')) {
-	die ('Access denied.');
+    die ('Access denied.');
 }
+
 $rootlinefields = &$GLOBALS["TYPO3_CONF_VARS"]["FE"]["addRootLineFields"];
-if($rootlinefields != '');
-{
+if ($rootlinefields !== '') {
     $rootlinefields .= ' , ';
 }
 
