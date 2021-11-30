@@ -15,7 +15,7 @@
 			array (
 				'depends' =>
 				array (
-					'typo3' => '9.5.0 - 10.4.99',
+					'typo3' => '11.5.0 - 11.5.99',
 				),
 				'conflicts' =>
 				array (
