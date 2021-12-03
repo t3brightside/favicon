@@ -1,4 +1,4 @@
-* 0.1.1
-  - Bugfix in ext_localconf.php
-* 0.1.2
-  - ext key for composer
+* 1.0.0 !!! BREAKING !!! Not compatible with older versions
+    - Code clean up
+    - Remove favicon from page settings
+    - Make setup purely TypoScript based
