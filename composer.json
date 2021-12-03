@@ -1,24 +1,21 @@
 {
-  "name": "t3brightside/favicon",
-  "description": "TYPO3 CMS extension to add favicon through page settings. Renders icons for different devices.",
-  "type": "typo3-cms-extension",
-  "keywords": ["TYPO3", "favicon"],
-  "homepage": "https://github.com/t3brightside/favicon/",
-  "license": "GPL-2.0+",
-  "authors": [
-      {
-          "name": "Tanel Põld",
-          "role": "Developer",
-          "email": "info@t3brightside.com",
-          "homepage": "https://t3brightside.com"
-      }
-  ],
-  "require": {
-    "typo3/cms-core": "^11.5"
-  },
-  "extra": {
-      "typo3/cms": {
-          "extension-key": "favicon"
-      }
-  }
+	"name": "t3brightside/favicon",
+	"description": "TYPO3 CMS extension to add SVG and PNG favicons",
+	"type": "typo3-cms-extension",
+	"keywords": ["TYPO3", "favicon"],
+	"homepage": "https://github.com/t3brightside/favicon/",
+	"license": "GPL-2.0-or-later",
+	"authors": [{
+		"name": "Tanel Põld",
+		"role": "Developer",
+		"homepage": "https://t3brightside.com"
+	}],
+	"require": {
+		"typo3/cms-core": "^11.5"
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "favicon"
+		}
+	}
 }
