@@ -1,46 +1,35 @@
-page.headerData.880909099 = FILES
-page.headerData.880909099 {
-    references.data = levelfield:-1,tx_favicon_favicon,slide
-    maxItems = 1
-    renderObj = COA
-	renderObj {
-    	10 = TEXT
-        10 {
-            stdWrap.typolink {
-                parameter.stdWrap {
-                    cObject = IMG_RESOURCE
-                    cObject {
-                        file {
-                            crop.data = file:current:crop
-                            import.data = file:current:uid
-                            treatIdAsReference = 1
-                            maxW = 32
-                        }
-                    }
-                }
-                returnLast = url
-                forceAbsoluteUrl = 1
-            }
-        	wrap = <link rel="icon" href="|" sizes="32x32">
-        	required = 1
-        }
-        50 < .10
-    	50.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 16
-    	50.wrap = <link rel="icon" type="image/png" href="|" sizes="16x16">
-    	60 < .10
-    	60.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 228
-    	60.wrap = <link rel="icon" type="image/png" href="|" sizes="228x228">
-    # Android
-    	70 < .10
-    	70.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 196
-    	70.wrap = <link rel="shortcut icon" sizes="196x196" href="|">
-    # iOS
-    	100 < .10
-    	100.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 180
-    	100.wrap = <link rel="apple-touch-icon" sizes="180x180" href="|">
-    # MS
-    	130 < .10
-    	130.stdWrap.typolink.parameter.stdWrap.cObject.file.maxW = 310
-    	130.wrap = <meta name="msapplication-square310x310logo" content="|" />
-	}
+page.headerData {
+  8900 = TEXT
+  8900 {
+    value = {$favicon.svgPath}
+    dataWrap = <link rel="icon" href="|" type="image/svg+xml">
+    required = 1
+  }
+  8910 = IMG_RESOURCE
+  8910 {
+    file = {$favicon.pngPath}
+    file.maxW = 32
+    stdWrap.dataWrap = <link rel="icon" href="|"  sizes="32x32">
+    required = 1
+  }
+  8920 = IMG_RESOURCE
+  8920 {
+    file = {$favicon.pngPath}
+    file.maxW = 512
+    stdWrap.dataWrap = <link rel="icon" href="|" sizes="512x512">
+    required = 1
+  }
+  8930 = IMG_RESOURCE
+  8930 {
+    file = {$favicon.pngPath}
+    file.maxW = 180
+    stdWrap.dataWrap = <link rel="apple-touch-icon" href="|" sizes="180x180">
+    required = 1
+  }
+  8940 = TEXT
+  8940 {
+    value = {$favicon.svgMaskPath}
+    dataWrap = <link rel="mask-icon" href="|" colour="{$favicon.svgMaskColour}">
+    required = 1
+  }
 }
