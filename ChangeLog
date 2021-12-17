@@ -2,3 +2,5 @@
     - Code clean up
     - Remove favicon from page settings
     - Make setup purely TypoScript based
+* 1.0.1
+    - [BUGFIX] Missing include static template
