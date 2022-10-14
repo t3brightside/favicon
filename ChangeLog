@@ -4,3 +4,5 @@
     - Make setup purely TypoScript based
 * 1.0.1
     - [BUGFIX] Missing include static template
+* 1.1.0
+    - [TASK] TYPO3 12 compatibility
