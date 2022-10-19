@@ -6,3 +6,5 @@
     - [BUGFIX] Missing include static template
 * 1.1.0
     - [TASK] TYPO3 12 compatibility
+* 1.1.1
+    - [BUGFIX] Change PNG icon constant to relative path
