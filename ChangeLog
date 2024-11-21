@@ -8,3 +8,5 @@
     - [TASK] TYPO3 12 compatibility
 * 1.1.1
     - [BUGFIX] Change PNG icon constant to relative path
+* 1.2.0
+    - [TASK] TYPO3 13 compatibility
