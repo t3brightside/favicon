@@ -11,7 +11,7 @@
 		"homepage": "https://t3brightside.com"
 	}],
 	"require": {
-		"typo3/cms-core": "^10.4 || ^11.5 || ^12.0"
+		"typo3/cms-core": "^10.4 || ^11.5 || ^12.0 || ^13.4"
 	},
 	"extra": {
 		"typo3/cms": {
