@@ -4,7 +4,7 @@ $EM_CONF[$_EXTKEY] = [
     'title' => 'Favicon',
     'description' => 'Add favicon through page settings. Renders icons for different devices.',
     'category' => 'fe',
-    'version' => '1.2.0',
+    'version' => '1.3.0',
     'state' => 'stable',
     'clearcacheonload' => true,
     'author' => 'Tanel Põld',
@@ -12,7 +12,7 @@ $EM_CONF[$_EXTKEY] = [
     'author_company' => 'Brightside OÜ / t3brightside.com',
     'constraints' => [
         'depends' => [
-            'typo3' => '11.5.0 - 13.99.99',
+            'typo3' => '12.4.0 - 14.99.99',
         ],
     ],
 ];
